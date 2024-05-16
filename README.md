@@ -18,10 +18,10 @@ Feel free to browse through the covers in this collection! While this repository
 
 Here's a preview of some of the book covers included in this collection:
 
-![Cover 1]([link_to_cover1_image](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Art%20of%20Speed%20Reading%20Body%20Language%20-%20The%20Last%20Dark%20Psychology%20Stress-Free%20Guide%20Everybody%20Needs.jpg))
-![Cover 2]([link_to_cover2_image](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20-%20The%20Practical%20Uses%20and%20Best%20Defenses%20of%20Psychological%20Warfare%20in%20Everyday%20Life.jpg))
-![Cover 3]([link_to_cover3_image](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20-%20Uncover%20the%20Secrets%20to%20Defend%20Yourself%20Against%20Mind%20Control%2C%20Deception.jpg))
-![Cover 50]([link_to_cover50_image](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20and%20Manipulation%20-%20Manipulators%20are%20All%20Around%20Us%20and%20are%20Tricky%20to%20Spot.jpg))
+![Cover 1](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Art%20of%20Speed%20Reading%20Body%20Language%20-%20The%20Last%20Dark%20Psychology%20Stress-Free%20Guide%20Everybody%20Needs.jpg)
+![Cover 2](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20-%20The%20Practical%20Uses%20and%20Best%20Defenses%20of%20Psychological%20Warfare%20in%20Everyday%20Life.jpg)
+![Cover 3](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20-%20Uncover%20the%20Secrets%20to%20Defend%20Yourself%20Against%20Mind%20Control%2C%20Deception.jpg)
+![Cover 50](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Dark%20Psychology%20and%20Manipulation%20-%20Manipulators%20are%20All%20Around%20Us%20and%20are%20Tricky%20to%20Spot.jpg)
 
 ## About
 
