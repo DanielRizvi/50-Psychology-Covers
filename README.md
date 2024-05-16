@@ -12,7 +12,9 @@ Book covers are often the first impression we have of a story. They can convey t
 
 Welcome to the Dark Psychology Book Covers collection! Below are the covers of some of the books included in this collection.
 
-![Cover 1](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Art%20of%20Speed%20Reading%20Body%20Language%20-%20The%20Last%20Dark%20Psychology%20Stress-Free%20Guide%20Everybody%20Needs.jpg)
+
+
+<img src="[link_to_cover1_image](https://github.com/DanielRizvi/50-Psychology-Covers/blob/main/Art%20of%20Speed%20Reading%20Body%20Language%20-%20The%20Last%20Dark%20Psychology%20Stress-Free%20Guide%20Everybody%20Needs.jpg)" alt="Cover 1" width="150" height="200">
 
 ![Art Of Speed Reading Body Language The Last Dark Psychology Stress Free Guide Everybody Needs](images/Art of Speed Reading Body Language - The Last Dark Psychology Stress-Free Guide Everybody Needs.jpg)
 ![Dark Psychology 2 Books In 1 The Complete Guide To Mind Control, Manipulation, Reverse Psychology](images/Dark Psychology - 2 BOOKS IN 1 - The Complete Guide to Mind Control, Manipulation, Reverse Psychology.jpg)
